@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/LakshanRukantha/web-scraping-practice#readme",
   "dependencies": {
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
     "puppeteer": "^20.7.2"
   }
 }
